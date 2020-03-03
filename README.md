@@ -11,7 +11,7 @@ Initial Goals:-
 
 ->A display in which a person can find the words.
 
-->Providing a display in the PyCharm output console.
+->Providing a display of letters as a perfect grid matrix view in the PyCharm output console.
 
 
 
