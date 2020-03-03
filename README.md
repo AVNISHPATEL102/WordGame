@@ -2,6 +2,7 @@
 
 This is a normal word which we used as childrens.
 
+Our final goal is to make and AI which knows the words but finds the word in the most efficient way and the fastest way from a big matrix of display of letters.
 
 
 
