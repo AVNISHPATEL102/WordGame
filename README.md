@@ -4,6 +4,8 @@ This is a normal word which we used as childrens.
 
 This game is made in python and has it is a simple game the game is to be played in the output console of PyCharm(an IDE for python).
 
+Currently the game is fully playable by a human and you can change the number of words and length of words and the grid and the difficulty level will increase by itself.
+
 Our final goal is to make and AI which knows the words but finds the word in the most efficient way and the fastest way from a big matrix of display of letters.
 
 
