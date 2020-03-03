@@ -17,6 +17,6 @@ Initial Goals:-
 
 Progress:-
 
-Done with the words and the letters thing.
+->Done with the words and the letters thing.
 Done with the matrix for the display.
 Done with hiding the words.
