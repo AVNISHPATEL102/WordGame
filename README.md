@@ -10,6 +10,7 @@ Our final goal is to make and AI which knows the words but finds the word in the
 Initial Goals:- 
 
 ->A display in which a person can find the words.
+
 ->Providing a display in the PyCharm output console.
 
 
@@ -18,5 +19,7 @@ Initial Goals:-
 Progress:-
 
 ->Done with the words and the letters thing.
+
 ->Done with the matrix for the display.
+
 ->Done with hiding the words.
