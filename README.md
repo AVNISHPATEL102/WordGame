@@ -25,3 +25,5 @@ Progress:-
 ->Done with the matrix for the display.
 
 ->Done with hiding the words.
+
+->Did the words hiding in horizontal and verstical paterns.
